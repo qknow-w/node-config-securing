@@ -1,0 +1,9 @@
+{
+  "name": "node-config-securing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-config": "^0.0.2"
+  }
+}
